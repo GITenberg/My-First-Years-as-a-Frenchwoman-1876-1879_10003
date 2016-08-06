@@ -1,0 +1,34 @@
+_repo: My-First-Years-as-a-Frenchwoman-1876-1879_10003
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waddington, Mary King
+    aliases:
+    - King, Mary Alsop
+    - Waddington, Mary Alsop King
+    birthdate: 1833
+    deathdate: 1923
+    gutenberg_agent_id: '3261'
+    url: http://www.gutenberg.org/2009/agents/3261
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Alsop_King_Waddington
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Third Republic, 1870-1940'
+- !lcsh 'France -- Social life and customs'
+- !lcc 'DC'
+- GITenberg
+tableOfContents: When MacMahon was president -- Impressions of the Assembly at Versailles
+  -- M. Waddington as minister of public instruction -- The social side of a minister's
+  wife -- A republican victory and a new ministry -- The exposition year -- The Berlin
+  congress -- Gaieties at the Quai d'Orsay -- M. Waddington as prime minister -- Parliament
+  back in Paris -- Last days at the foreign office.
+title: My First Years as a Frenchwoman, 1876-1879
+url: http://www.gutenberg.org/ebooks/10003
